@@ -1,5 +1,6 @@
 # HandsMen Threads CRM – Salesforce Capstone Project
 
+
 HandsMen Threads CRM is a Salesforce-based solution designed to streamline sales operations, inventory tracking, customer management, and loyalty handling for apparel businesses. This system centralizes customer data, automates crucial business workflows, and enhances business decision-making through real-time data visibility.
 
 ---
@@ -24,7 +25,6 @@ HandsMen Threads CRM is a Salesforce-based solution designed to streamline sales
 - **Apex Business Logic**
   Custom triggers to enhance system automation and prevent human errors.
 
----
 
 ## 📌 Future Scope
 
